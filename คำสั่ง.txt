@@ -1,0 +1,30 @@
+d:
+cd 604234038	
+เซ็ตผู้ใช้งาน  git
+git config --golbal user.email"604234038"
+git config --golbal user.name "aku"
+
+
+สร้างโปรเจค  ionic
+ionic start lab3 tabs
+
+cd lab3
+//สร้าง เปิดโปรเจค  Visual code 
+code.
+
+สร้าง gitกับข้อมูลในได
+git init
+
+
+ระบุข้อมุลทีข้องการบันทึก
+git.add
+บันทึกการไข
+git commit-m "first commit"
+
+ผุกRepository .ในgithut กับโปรเจค
+git remote add origin https://github.com/604234038CS/lab3.git
+
+push ครั้งแรก
+git push -u origin master
+
+
